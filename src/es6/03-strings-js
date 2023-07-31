@@ -16,3 +16,31 @@ la continuacion de esa fras epica.
 
 console.log(lorem);
 console.log(lorem2);
+
+var nombre = "john"
+var edad = 43
+var mensaje = "Mi nombre es " + nombre + " y tengo " + edad + " años."
+
+console.log(mensaje)
+// 'Mi nombre es john y tengo 43 años.'
+
+var nombre = "john"
+var edad = 43
+
+var mensaje = `Mi nombre es ${nombre} y tengo ${edad} años.`
+
+console.log(mensaje)
+// 'Mi nombre es john y tengo 43 años.'
+
+var mensaje = "Línea 1 \n" + "línea 2"
+
+console.log(mensaje)
+// 'Línea 1
+// línea 2'
+
+const mensaje = `Línea 1
+línea 2`
+
+console.log(mensaje)
+// 'Línea 1
+// línea 2'
