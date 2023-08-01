@@ -8,5 +8,6 @@
   "keywords": [],
   "author": "John Rodriguez <jfrodrizuga@gmail.com>",
   "license": "MIT",
-  "description": ""
+  "description": "",
+  "type": "module"
 }
