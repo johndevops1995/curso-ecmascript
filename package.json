@@ -9,5 +9,8 @@
   "author": "John Rodriguez <jfrodrizuga@gmail.com>",
   "license": "MIT",
   "description": "",
-  "type": "module"
+  "type": "module",
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
 }
